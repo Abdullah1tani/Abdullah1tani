@@ -1,5 +1,11 @@
+<h1 align="center">Hi 👋 I'm Abdullah Itani</h1>
+
 # 💫 About Me:
 I am a software developer with a B.Sc. in Computer Science from Concordia University, passionate about coding, machine learning, and building scalable applications. I enjoy turning ideas into reality through clean, efficient code.
+
+## 🚀 What I'm Up To
+- 🔍 Exploring new technologies like Cybersecurity, Cloud Computing, and Blockchain
+- 💻 Building Full Stack applications with React and Node.js
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-itani-9859aa263/) 
