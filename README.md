@@ -4,7 +4,7 @@
 I am a software developer with a B.Sc. in Computer Science from Concordia University, passionate about coding, machine learning, and building scalable applications. I enjoy turning ideas into reality through clean, efficient code.
 
 ## 🚀 What I'm Up To
-- 🔍 Exploring new technologies like Cybersecurity, Cloud Computing, and Blockchain
+- 🔍 Exploring new technologies like Cybersecurity, Cloud Computing, and machine learning
 - 💻 Building Full Stack applications with React and Node.js
 
 ## 🌐 Socials:
